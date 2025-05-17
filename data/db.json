@@ -19,64 +19,7 @@
       "filter": "music"
     },
   ],
-  "users": [
-    {
-      "email": "Terrance@example.com",
-      "password": "$2a$10$y.fgygnP.s4KlBo/tv/60umqpgtFziZdLxnQFdhw.jm2/rq3IcAUe",
-      "name": "Terrance",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ik1yZ3JlZW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3Mzg4ODIxMTcsImV4cCI6MTczODg4NTcxNywic3ViIjoiNCJ9.PzXh6tNKlgPcLs0llQK5fsI9tFuZHhpchLHqKcWS520",
-      "id": 1
-    },
-    {
-      "email": "Mrgreen@example.com",
-      "password": "$2a$10$oF5jPDxUme2t83BlZk62YuhMp3grbP1Nbw.0IYrmkGy6Ul9MZr/FW",
-      "name": "Mr Green",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ik1yZ3JlZW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3Mzg4ODIyNDcsImV4cCI6MTczODg4NTg0Nywic3ViIjoiMiJ9.kpL7uAq04IVAagxNsyM2G9HR4gTeD6gn4Y027B1sfc4",
-      "id": 2
-    },
-    {
-      "email": "Siyabonga@example.com",
-      "password": "$2a$10$mo173FZAIbKdVW8qNWiM0ugnEdfc.Xk2S.pB0YPKeLbO8iniIjX9C",
-      "name": "Siyabonga",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlcnJhbmNlQGV4YW1wbGUuY29tIiwiaWF0IjoxNzM5NDUzMzkwLCJleHAiOjE3Mzk0NTY5OTAsInN1YiI6IjEifQ.H5mrGtCE2KOCrJjvMZ6nHtM5yk30_DnGhupKFKyuyco",
-      "id": 3
-    }
-  ],
-  "comments": [
-    {
-      "comment": "I like this music video!❤👌",
-      "user": "Terrance",
-      "date": "Thu Apr 03 2025 3:02:03 PM",
-      "id": 1
-    },
-    {
-      "comment": "Upload classic hip hop👌🤞✌...",
-      "user": "Terrance",
-      "date": "Mon May 12 2025 7:09:39 PM",
-      "id": 2
-    },
-    {
-      "comment": "Upload classic hip hop👌🤞✌...",
-      "user": "Terrance",
-      "date": "Mon May 12 2025 7:09:45 PM",
-      "id": 3
-    }
-  ],
-  "playlist": [
-    {
-      "videoToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlcnJhbmNlQGV4YW1wbGUuY29tIiwiaWF0IjoxNzM5NDUzMzkwLCJleHAiOjE3Mzk0NTY5OTAsInN1YiI6IjEifQ.H5mrGtCE2KOCrJjvMZ6nHtM5yk30_DnGhupKFKyuyco",
-      "name": "Siyabonga",
-      "list": [
-        {
-          "video": "/videos/video-10.mp4",
-          "id": 100017,
-          "title": "Sad_Song",
-          "filter": "music"
-        }
-      ],
-      "playlistName": "",
-      "date": "Mon May 12 2025 8:38:29 PM",
-      "id": 1
-    }
-  ]
+  "users": [],
+  "comments": [],
+  "playlist": []
 }

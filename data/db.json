@@ -1,27 +1,9 @@
 {
   "cheatChat": [
     {
-      "video": "/videos/video-1.mp4",
-      "id": 10001,
-      "title": "Too Gone_Rajae ft Youngboy NBA",
-      "filter": "music"
-    },
-    {
       "video": "/naruto/Boruto Naruto Next Generations S1, E1.mp4",
       "id": 10002,
       "title": "Naruto Next Generations S1, E1",
-      "filter": "anime"
-    },
-    {
-      "video": "/videos/video-2.mp4",
-      "id": 10003,
-      "title": "Etenity_Emminem ft Dax",
-      "filter": "music"
-    },
-    {
-      "video": "/naruto/Boruto Naruto Next Generations S1, E3.mp4",
-      "id": 10006,
-      "title": "Naruto Next Generations S1, E3",
       "filter": "anime"
     },
     {
@@ -31,65 +13,11 @@
       "filter": "music"
     },
     {
-      "video": "/naruto/Boruto Naruto Next Generations S1, E4.mp4",
-      "id": 10008,
-      "title": "Naruto Next Generations S1, E4",
-      "filter": "anime"
-    },
-    {
       "video": "/videos/video-5.mp4",
       "id": 10009,
       "title": "Chris Brown_Fun",
       "filter": "music"
     },
-    {
-      "video": "/naruto/Boruto Naruto Next Generations S1, E5.mp4",
-      "id": 100010,
-      "title": "Naruto Next Generations S1, E5",
-      "filter": "anime"
-    },
-    {
-      "video": "/videos/video-6.mp4",
-      "id": 100011,
-      "title": "Not Afraid_Emminem",
-      "filter": "music"
-    },
-    {
-      "video": "/naruto/Boruto Naruto Next Generations S1, E6.mp4",
-      "id": 100012,
-      "title": "Naruto Next Generations S1, E6",
-      "filter": "anime"
-    },
-    {
-      "video": "/videos/video-7.mp4",
-      "id": 100013,
-      "title": "Lose_Yourself ft Emminem",
-      "filter": "music"
-    },
-    {
-      "video": "/naruto/Boruto Naruto Next Generations S1, E7.mp4",
-      "id": 100014,
-      "title": "Naruto Next Generations S1, E7",
-      "filter": "anime"
-    },
-    {
-      "video": "/videos/video-8.mp4",
-      "id": 100015,
-      "title": "99 ft felo lee tee",
-      "filter": "music"
-    },
-    {
-      "video": "/videos/video-9.mp4",
-      "id": 100016,
-      "title": "Chris Brown_Last hit",
-      "filter": "music"
-    },
-    {
-      "video": "/videos/video-10.mp4",
-      "id": 100017,
-      "title": "Sad_Song",
-      "filter": "music"
-    }
   ],
   "users": [
     {
